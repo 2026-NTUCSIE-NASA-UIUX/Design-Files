@@ -206,16 +206,6 @@ Includes:
 
 ---
 
-### 5.3 Detail Page
-
-Includes:
-
-- Card sections
-- Metadata (Badge)
-- Action buttons
-
----
-
 ## 6. Figma Usage Guide
 
 ### Component Usage
@@ -231,6 +221,7 @@ Includes:
 ---
 
 ## 7. Future Work
+
 - Add responsive behavior (Mobile)
 - Implement React component library
 - Integrate with private npm registry
