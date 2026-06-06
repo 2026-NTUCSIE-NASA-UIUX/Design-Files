@@ -73,7 +73,7 @@ The spacing system is based on a consistent scale derived from the base unit.
 | Token | Value |
 |------|------|
 | low | 10% |
-| md | 10% |
+| md | 40% |
 | high | 90% |
 
 ---
